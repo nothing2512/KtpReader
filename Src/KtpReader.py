@@ -3,7 +3,7 @@ import numpy
 import re
 import pytesseract
 from matplotlib import pyplot
-from KtpResponse import KtpResponse
+from Src.KtpResponse import KtpResponse
 
 class KtpReader(object):
 
